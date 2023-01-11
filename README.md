@@ -1,3 +1,3 @@
 # SQL Data Lemur Solution
 
-Solution for SQL Interview Questions on top FAANG company provided by [Data Lemur](https://datalemur.com?referralCode=ChuDcJij).
+Solution of SQL for Data Science Interview Questions on top global company provided by [Data Lemur](https://datalemur.com?referralCode=ChuDcJij).
